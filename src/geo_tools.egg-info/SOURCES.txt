@@ -1,6 +1,0 @@
-pyproject.toml
-src/geo_tools.py
-src/geo_tools.egg-info/PKG-INFO
-src/geo_tools.egg-info/SOURCES.txt
-src/geo_tools.egg-info/dependency_links.txt
-src/geo_tools.egg-info/top_level.txt
