@@ -1,12 +1,12 @@
 # Standard library
 import io
 # Third party
-import folium
+import wrappers.wrapper_folium as wrapper_folium
 import PIL
 
 
 def folium_to_picture(
-    map_: folium.Map
+    map_: wrapper_folium.Map
         ) -> None:
     """
     Converts a Folium map to a PNG image and saves it as 'folium.png'.
@@ -24,7 +24,7 @@ def folium_to_picture(
 
 
 def folium_to_html(
-    map_: folium.Map
+    map_: wrapper_folium.Map
         ) -> None:
     """
     Save a Folium map to an HTML file.
@@ -39,7 +39,7 @@ def folium_to_html(
 
 
 def folium_to_binary(
-    map_: folium.Map
+    map_: wrapper_folium.Map
         ) -> None:
     """
     Converts a Folium map object to a binary file.

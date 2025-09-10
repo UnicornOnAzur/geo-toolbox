@@ -194,3 +194,7 @@ def calculate_law_of_cosines_distance(
     return math.acos(math.sin(lat1_rad) * math.sin(lat2_rad) +
                      math.cos(lat1_rad) * math.cos(lat2_rad) *
                      math.cos(lon2_rad - lon1_rad))*radius
+
+
+if __name__ == "__main__":
+    pass
