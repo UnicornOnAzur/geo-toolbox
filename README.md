@@ -14,6 +14,6 @@ geo-toolbox/\
 │&emsp;&emsp;&emsp;├── wrapper_cartopy.py\
 │&emsp;&emsp;&emsp;├── wrapper_folium.py\
 │&emsp;&emsp;&emsp;├── wrapper_geojson.py\
-│&emsp;&emsp;&emsp;├── wrapper_geopandas.py
-│&emsp;&emsp;&emsp;└── __init__.py
+│&emsp;&emsp;&emsp;├── wrapper_geopandas.py\
+│&emsp;&emsp;&emsp;└── __init__.py\
 └── tests/
