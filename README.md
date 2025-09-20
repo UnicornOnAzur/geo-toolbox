@@ -1,4 +1,4 @@
-**Project structure:
+**Project structure:**
 
 geo-toolbox/
 ├── .gitignore
