@@ -10,6 +10,7 @@ geo-toolbox/\
 │&emsp;└── geo_toolbox/\
 │&emsp;&emsp;├── distances.py\
 │&emsp;&emsp;├── mygeodataframe.py\
+│&emsp;&emsp;├── __init__.py\
 │&emsp;&emsp;└── wrappers/\
 │&emsp;&emsp;&emsp;├── wrapper_cartopy.py\
 │&emsp;&emsp;&emsp;├── wrapper_folium.py\
