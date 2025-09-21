@@ -1,0 +1,14 @@
+[project]
+name = "YOUR_PACKAGE_NAME"
+version = "0.0.1"
+dependencies = [
+"cartopy",
+"folium",
+"geojson",
+"geopandas",
+"matplotlib",
+"numpy",
+"pandas",
+"pillow",
+"shapely"
+]
